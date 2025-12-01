@@ -6,7 +6,8 @@ body {
 
 h1 {
   color: #0d6014; /* #3a241d; */
-  text-align: left;
+  text-align: center;
+  font-family: "Lobster"; cursive;
 }
 
 /*
